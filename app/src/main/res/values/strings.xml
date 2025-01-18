@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Image Hunt</string>
+    <string name="memo">Memorize The Animals Position</string>
+    <string name="game_over">Game Over</string>
+    <string name="your_score">Your score %1$s out of %2$s</string>
+    <string name="play_again">Play again</string>
+    <string name="score">score: %1$s</string>
+    <string name="time_left">time left:  %1$s</string>
+    <string name='start'>Start</string>
+    <string name='instr'>Instruction</string>
+    <string name="instruction">
+        ** How to Play "Image Hunt" **\n
+        * Memorize the Images:\n
+        Observe the images of animals with their names displayed below. Memorize their positions carefully.\n
+\n
+        * Start the Game:\n
+        Press the "Start" button. The images will flip over, hiding the animals.\n
+\n
+        * Find the Correct Image:
+        A specific animal\'s name will be displayed. You have 5 seconds to select the correct image.\n
+\n
+        * Click on an image to flip it over:\n
+        Green: Correct choice!\n
+        Red: Incorrect choice.\n
+\n
+        * Complete the Game:\n
+        Repeat until all images are flipped over.\n
+        The game ends when all animals have been found.\n
+\n
+        * Select one of three modes with increasing difficulty:\n
+        More images to memorize in each mode!
+    </string>
+    <string name="close">Quit App</string>
+    <string name="close_game">Wold you like to close the app?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">Okay</string>
+    <string name="settings">Settings</string>
+    <string name="main_menu">MainMenu</string>
+    <string name="exit">Exit</string>
+    <string name='diff'>Difficulty</string>
+    <string name='dark_mode'>Dark Mode</string>
+    <string name="name">Ikupolati Joshua Olatunbosun</string>
+    <string name="contact">ikupolatiolatunbosun@gmail.com\ngithub.com/0L47UNB05UN</string>
+    <string name="business">Android Developer Extraordinaire</string>
+    <string name='logo'>Logo</string>
+    <string name='easy'>Easy</string>
+    <string name='mdeium'>Medium</string>
+    <string name='hard'>Hard</string>
+    <string name="duck">Duck</string>
+    <string name="bear">Bear</string>
+    <string name="wolf">Wolf</string>
+    <string name="giraffe">Giraffe</string>
+    <string name="koala">Koala</string>
+    <string name="zebra">Zebra</string>
+    <string name="rabbit">Rabbit</string>
+    <string name="hamster">Hamster</string>
+    <string name="deer">Deer</string>
+    <string name="crocodile">Crocodile</string>
+    <string name="camel">Camel</string>
+    <string name="sheep">Sheep</string>
+    <string name="squirrel">Squirrel</string>
+    <string name="hippo">Hippo</string>
+    <string name="lynx">Lynx</string>
+    <string name="antelope">Antelope</string>
+    <string name="racoon">Racoon</string>
+    <string name="frog">Frog</string>
+    <string name="goat">Goat</string>
+    <string name="parrot">Parrot</string>
+    <string name="ques">Where is the %1$s?</string>
+</resources>
