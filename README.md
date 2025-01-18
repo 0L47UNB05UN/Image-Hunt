@@ -40,12 +40,12 @@ While building Image Hunt, I enhanced my skills in the following areas:
 
 ## Screenshots
 
-![Screenshot 1](screenshots/Screenshot_welcome.png)  
-![Screenshot 2](screenshots/Screenshot_startGame.png)
-![Screenshot 3](screenshots/Screenshot_startGame2.png)
-![Screenshot 4](screenshots/Screenshot_settings.png)
-![Screenshot 5](screenshots/Screenshot_about.png)
-![Screenshot 6](screenshots/Screenshot_quit.png)
+![Screenshot 1](app/screenshots/Screenshot_welcome.png)\n
+![Screenshot 2](app/screenshots/Screenshot_startGame.png)\n
+![Screenshot 3](app/screenshots/Screenshot_startGame2.png)\n
+![Screenshot 4](app/screenshots/Screenshot_settings.png)\n
+![Screenshot 5](app/screenshots/Screenshot_about.png)\n
+![Screenshot 6](app/screenshots/Screenshot_quit.png)\n
 
 ---
 
