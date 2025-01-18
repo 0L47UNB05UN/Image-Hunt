@@ -40,8 +40,12 @@ While building Image Hunt, I enhanced my skills in the following areas:
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)  
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](screenshots/Screenshot_welcome.png)  
+![Screenshot 2](screenshots/Screenshot_startGame.png)
+![Screenshot 3](screenshots/Screenshot_startGame2.png)
+![Screenshot 4](screenshots/Screenshot_settings.png)
+![Screenshot 5](screenshots/Screenshot_about.png)
+![Screenshot 6](screenshots/Screenshot_quit.png)
 
 ---
 
@@ -49,7 +53,7 @@ While building Image Hunt, I enhanced my skills in the following areas:
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/0L47UNB05UN/Image-Hunt)
    ```
 2. Open the project in Android Studio.
 3. Build and run the app on an emulator or a physical device.
@@ -58,10 +62,5 @@ While building Image Hunt, I enhanced my skills in the following areas:
 
 ## Contributing
 
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
-
----
-
-## License
-
-[MIT License](LICENSE)
+Contributions are welcome! 
+Feel free to fork the repository and submit a pull request.
